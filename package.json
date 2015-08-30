@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chrisco255/reduxtodo/issues"
   },
-  "homepage": "https://github.com/chrisco255/reduxtodo"
+  "homepage": "https://github.com/chrisco255/reduxtodo",
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  }
 }
